@@ -34,8 +34,8 @@ main {
 }
 
 footer {
-    background-color: #333;
-    color: white;
+    background-color: darkgrey;
+    color: black;
     text-align: center;
     padding: 10px 0;
     position: fixed;
