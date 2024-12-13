@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+     background-image: url(pozadina.jpg); 
     margin: 0;
     padding: 0;
     background-image: url(pozadina.jpg);
@@ -35,11 +35,15 @@ main {
 }
 
 footer {
-    background-color: #333;
-    color: white;
+    background-color: darkgrey;
+    color: black;
     text-align: center;
     padding: 10px 0;
     position: fixed;
     width: 100%;
     bottom: 0;
+}
+nav ul li a:hover {
+    text-decoration: underline;
+    color: #ff5733;
 }
